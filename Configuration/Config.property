@@ -1,0 +1,2 @@
+ChromeDriver =./Driver/chromedriver.exe
+URL = https://www.naukri.com/nlogin/login
